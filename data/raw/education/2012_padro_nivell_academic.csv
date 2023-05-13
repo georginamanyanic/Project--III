@@ -1,0 +1,889 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Sexe","Nivell_academic","Nombre"
+2012,1,"Ciutat Vella",1,"el Raval","Home","Sense estudis",1699
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Sense estudis",474
+2012,1,"Ciutat Vella",3,"la Barceloneta","Home","Sense estudis",630
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Sense estudis",643
+2012,2,"Eixample",5,"el Fort Pienc","Home","Sense estudis",600
+2012,2,"Eixample",6,"la Sagrada Família","Home","Sense estudis",991
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Home","Sense estudis",543
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Sense estudis",593
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Sense estudis",921
+2012,2,"Eixample",10,"Sant Antoni","Home","Sense estudis",745
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Sense estudis",1232
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Sense estudis",97
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Sense estudis",1192
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Sense estudis",245
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Sense estudis",420
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Home","Sense estudis",509
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Sense estudis",715
+2012,3,"Sants-Montjuïc",18,"Sants","Home","Sense estudis",1041
+2012,4,"Les Corts",19,"les Corts","Home","Sense estudis",831
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Sense estudis",513
+2012,4,"Les Corts",21,"Pedralbes","Home","Sense estudis",173
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Sense estudis",84
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Sense estudis",336
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Sense estudis",194
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Sense estudis",290
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Sense estudis",528
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Sense estudis",361
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Sense estudis",250
+2012,6,"Gràcia",29,"el Coll","Home","Sense estudis",186
+2012,6,"Gràcia",30,"la Salut","Home","Sense estudis",288
+2012,6,"Gràcia",31,"la Vila de Gràcia","Home","Sense estudis",848
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Sense estudis",587
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Sense estudis",608
+2012,7,"Horta-Guinardó",34,"Can Baró","Home","Sense estudis",308
+2012,7,"Horta-Guinardó",35,"el Guinardó","Home","Sense estudis",814
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Sense estudis",240
+2012,7,"Horta-Guinardó",37,"el Carmel","Home","Sense estudis",1811
+2012,7,"Horta-Guinardó",38,"la Teixonera","Home","Sense estudis",529
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Sense estudis",310
+2012,7,"Horta-Guinardó",40,"Montbau","Home","Sense estudis",171
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Sense estudis",155
+2012,7,"Horta-Guinardó",42,"la Clota","Home","Sense estudis",20
+2012,7,"Horta-Guinardó",43,"Horta","Home","Sense estudis",1040
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Sense estudis",844
+2012,8,"Nou Barris",45,"Porta","Home","Sense estudis",1112
+2012,8,"Nou Barris",46,"el Turó de la Peira","Home","Sense estudis",641
+2012,8,"Nou Barris",47,"Can Peguera","Home","Sense estudis",135
+2012,8,"Nou Barris",48,"la Guineueta","Home","Sense estudis",626
+2012,8,"Nou Barris",49,"Canyelles","Home","Sense estudis",392
+2012,8,"Nou Barris",50,"les Roquetes","Home","Sense estudis",1002
+2012,8,"Nou Barris",51,"Verdun","Home","Sense estudis",671
+2012,8,"Nou Barris",52,"la Prosperitat","Home","Sense estudis",1486
+2012,8,"Nou Barris",53,"la Trinitat Nova","Home","Sense estudis",424
+2012,8,"Nou Barris",54,"Torre Baró","Home","Sense estudis",187
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Home","Sense estudis",567
+2012,8,"Nou Barris",56,"Vallbona","Home","Sense estudis",64
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Home","Sense estudis",542
+2012,9,"Sant Andreu",58,"Baró de Viver","Home","Sense estudis",128
+2012,9,"Sant Andreu",59,"el Bon Pastor","Home","Sense estudis",575
+2012,9,"Sant Andreu",60,"Sant Andreu","Home","Sense estudis",1522
+2012,9,"Sant Andreu",61,"la Sagrera","Home","Sense estudis",773
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Sense estudis",362
+2012,9,"Sant Andreu",63,"Navas","Home","Sense estudis",513
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Sense estudis",837
+2012,10,"Sant Martí",65,"el Clot","Home","Sense estudis",617
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Sense estudis",321
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Sense estudis",107
+2012,10,"Sant Martí",68,"el Poblenou","Home","Sense estudis",791
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Sense estudis",243
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Sense estudis",1300
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Home","Sense estudis",655
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Sense estudis",881
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Home","Sense estudis",1419
+2012,99,"No consta",99,"No consta","Home","Sense estudis",6
+2012,1,"Ciutat Vella",1,"el Raval","Home","Estudis primaris / certificat d'escolaritat / EGB",9328
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Estudis primaris / certificat d'escolaritat / EGB",2067
+2012,1,"Ciutat Vella",3,"la Barceloneta","Home","Estudis primaris / certificat d'escolaritat / EGB",1922
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Estudis primaris / certificat d'escolaritat / EGB",2289
+2012,2,"Eixample",5,"el Fort Pienc","Home","Estudis primaris / certificat d'escolaritat / EGB",2032
+2012,2,"Eixample",6,"la Sagrada Família","Home","Estudis primaris / certificat d'escolaritat / EGB",3160
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Home","Estudis primaris / certificat d'escolaritat / EGB",1383
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Estudis primaris / certificat d'escolaritat / EGB",1656
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Estudis primaris / certificat d'escolaritat / EGB",2848
+2012,2,"Eixample",10,"Sant Antoni","Home","Estudis primaris / certificat d'escolaritat / EGB",2716
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Estudis primaris / certificat d'escolaritat / EGB",5302
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Estudis primaris / certificat d'escolaritat / EGB",187
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Estudis primaris / certificat d'escolaritat / EGB",3726
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Estudis primaris / certificat d'escolaritat / EGB",890
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Estudis primaris / certificat d'escolaritat / EGB",1670
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Home","Estudis primaris / certificat d'escolaritat / EGB",1738
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Estudis primaris / certificat d'escolaritat / EGB",2508
+2012,3,"Sants-Montjuïc",18,"Sants","Home","Estudis primaris / certificat d'escolaritat / EGB",3704
+2012,4,"Les Corts",19,"les Corts","Home","Estudis primaris / certificat d'escolaritat / EGB",2294
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Estudis primaris / certificat d'escolaritat / EGB",1261
+2012,4,"Les Corts",21,"Pedralbes","Home","Estudis primaris / certificat d'escolaritat / EGB",240
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Estudis primaris / certificat d'escolaritat / EGB",211
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Estudis primaris / certificat d'escolaritat / EGB",571
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Estudis primaris / certificat d'escolaritat / EGB",247
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Estudis primaris / certificat d'escolaritat / EGB",501
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Estudis primaris / certificat d'escolaritat / EGB",908
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Estudis primaris / certificat d'escolaritat / EGB",1016
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Estudis primaris / certificat d'escolaritat / EGB",722
+2012,6,"Gràcia",29,"el Coll","Home","Estudis primaris / certificat d'escolaritat / EGB",503
+2012,6,"Gràcia",30,"la Salut","Home","Estudis primaris / certificat d'escolaritat / EGB",575
+2012,6,"Gràcia",31,"la Vila de Gràcia","Home","Estudis primaris / certificat d'escolaritat / EGB",3025
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Estudis primaris / certificat d'escolaritat / EGB",1684
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Estudis primaris / certificat d'escolaritat / EGB",1631
+2012,7,"Horta-Guinardó",34,"Can Baró","Home","Estudis primaris / certificat d'escolaritat / EGB",765
+2012,7,"Horta-Guinardó",35,"el Guinardó","Home","Estudis primaris / certificat d'escolaritat / EGB",2402
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Estudis primaris / certificat d'escolaritat / EGB",558
+2012,7,"Horta-Guinardó",37,"el Carmel","Home","Estudis primaris / certificat d'escolaritat / EGB",3705
+2012,7,"Horta-Guinardó",38,"la Teixonera","Home","Estudis primaris / certificat d'escolaritat / EGB",1245
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Estudis primaris / certificat d'escolaritat / EGB",745
+2012,7,"Horta-Guinardó",40,"Montbau","Home","Estudis primaris / certificat d'escolaritat / EGB",401
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Estudis primaris / certificat d'escolaritat / EGB",420
+2012,7,"Horta-Guinardó",42,"la Clota","Home","Estudis primaris / certificat d'escolaritat / EGB",63
+2012,7,"Horta-Guinardó",43,"Horta","Home","Estudis primaris / certificat d'escolaritat / EGB",2616
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Estudis primaris / certificat d'escolaritat / EGB",2165
+2012,8,"Nou Barris",45,"Porta","Home","Estudis primaris / certificat d'escolaritat / EGB",2759
+2012,8,"Nou Barris",46,"el Turó de la Peira","Home","Estudis primaris / certificat d'escolaritat / EGB",1741
+2012,8,"Nou Barris",47,"Can Peguera","Home","Estudis primaris / certificat d'escolaritat / EGB",305
+2012,8,"Nou Barris",48,"la Guineueta","Home","Estudis primaris / certificat d'escolaritat / EGB",1436
+2012,8,"Nou Barris",49,"Canyelles","Home","Estudis primaris / certificat d'escolaritat / EGB",940
+2012,8,"Nou Barris",50,"les Roquetes","Home","Estudis primaris / certificat d'escolaritat / EGB",2255
+2012,8,"Nou Barris",51,"Verdun","Home","Estudis primaris / certificat d'escolaritat / EGB",1592
+2012,8,"Nou Barris",52,"la Prosperitat","Home","Estudis primaris / certificat d'escolaritat / EGB",3138
+2012,8,"Nou Barris",53,"la Trinitat Nova","Home","Estudis primaris / certificat d'escolaritat / EGB",1128
+2012,8,"Nou Barris",54,"Torre Baró","Home","Estudis primaris / certificat d'escolaritat / EGB",368
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Home","Estudis primaris / certificat d'escolaritat / EGB",1896
+2012,8,"Nou Barris",56,"Vallbona","Home","Estudis primaris / certificat d'escolaritat / EGB",215
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Home","Estudis primaris / certificat d'escolaritat / EGB",1732
+2012,9,"Sant Andreu",58,"Baró de Viver","Home","Estudis primaris / certificat d'escolaritat / EGB",363
+2012,9,"Sant Andreu",59,"el Bon Pastor","Home","Estudis primaris / certificat d'escolaritat / EGB",1903
+2012,9,"Sant Andreu",60,"Sant Andreu","Home","Estudis primaris / certificat d'escolaritat / EGB",4562
+2012,9,"Sant Andreu",61,"la Sagrera","Home","Estudis primaris / certificat d'escolaritat / EGB",2511
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Estudis primaris / certificat d'escolaritat / EGB",1098
+2012,9,"Sant Andreu",63,"Navas","Home","Estudis primaris / certificat d'escolaritat / EGB",1590
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Estudis primaris / certificat d'escolaritat / EGB",2858
+2012,10,"Sant Martí",65,"el Clot","Home","Estudis primaris / certificat d'escolaritat / EGB",2218
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",1026
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",245
+2012,10,"Sant Martí",68,"el Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",2634
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",673
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Estudis primaris / certificat d'escolaritat / EGB",3975
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",1847
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Estudis primaris / certificat d'escolaritat / EGB",2576
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Home","Estudis primaris / certificat d'escolaritat / EGB",3289
+2012,99,"No consta",99,"No consta","Home","Estudis primaris / certificat d'escolaritat / EGB",17
+2012,1,"Ciutat Vella",1,"el Raval","Home","Batxillerat elemental / graduat escolar / ESO / FPI",4795
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1470
+2012,1,"Ciutat Vella",3,"la Barceloneta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1660
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1745
+2012,2,"Eixample",5,"el Fort Pienc","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2322
+2012,2,"Eixample",6,"la Sagrada Família","Home","Batxillerat elemental / graduat escolar / ESO / FPI",4149
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2166
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2437
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3929
+2012,2,"Eixample",10,"Sant Antoni","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3096
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Batxillerat elemental / graduat escolar / ESO / FPI",4005
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Batxillerat elemental / graduat escolar / ESO / FPI",128
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3123
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Batxillerat elemental / graduat escolar / ESO / FPI",915
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1472
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1862
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2343
+2012,3,"Sants-Montjuïc",18,"Sants","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3573
+2012,4,"Les Corts",19,"les Corts","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2913
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1633
+2012,4,"Les Corts",21,"Pedralbes","Home","Batxillerat elemental / graduat escolar / ESO / FPI",441
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Batxillerat elemental / graduat escolar / ESO / FPI",274
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1041
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Batxillerat elemental / graduat escolar / ESO / FPI",533
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Batxillerat elemental / graduat escolar / ESO / FPI",977
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1778
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1537
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1072
+2012,6,"Gràcia",29,"el Coll","Home","Batxillerat elemental / graduat escolar / ESO / FPI",589
+2012,6,"Gràcia",30,"la Salut","Home","Batxillerat elemental / graduat escolar / ESO / FPI",886
+2012,6,"Gràcia",31,"la Vila de Gràcia","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3408
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2499
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2203
+2012,7,"Horta-Guinardó",34,"Can Baró","Home","Batxillerat elemental / graduat escolar / ESO / FPI",850
+2012,7,"Horta-Guinardó",35,"el Guinardó","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3167
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Batxillerat elemental / graduat escolar / ESO / FPI",849
+2012,7,"Horta-Guinardó",37,"el Carmel","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3834
+2012,7,"Horta-Guinardó",38,"la Teixonera","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1314
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Batxillerat elemental / graduat escolar / ESO / FPI",694
+2012,7,"Horta-Guinardó",40,"Montbau","Home","Batxillerat elemental / graduat escolar / ESO / FPI",441
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Batxillerat elemental / graduat escolar / ESO / FPI",472
+2012,7,"Horta-Guinardó",42,"la Clota","Home","Batxillerat elemental / graduat escolar / ESO / FPI",40
+2012,7,"Horta-Guinardó",43,"Horta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2505
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2538
+2012,8,"Nou Barris",45,"Porta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2627
+2012,8,"Nou Barris",46,"el Turó de la Peira","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1602
+2012,8,"Nou Barris",47,"Can Peguera","Home","Batxillerat elemental / graduat escolar / ESO / FPI",219
+2012,8,"Nou Barris",48,"la Guineueta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1576
+2012,8,"Nou Barris",49,"Canyelles","Home","Batxillerat elemental / graduat escolar / ESO / FPI",784
+2012,8,"Nou Barris",50,"les Roquetes","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1861
+2012,8,"Nou Barris",51,"Verdun","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1367
+2012,8,"Nou Barris",52,"la Prosperitat","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3064
+2012,8,"Nou Barris",53,"la Trinitat Nova","Home","Batxillerat elemental / graduat escolar / ESO / FPI",892
+2012,8,"Nou Barris",54,"Torre Baró","Home","Batxillerat elemental / graduat escolar / ESO / FPI",230
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1277
+2012,8,"Nou Barris",56,"Vallbona","Home","Batxillerat elemental / graduat escolar / ESO / FPI",131
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1267
+2012,9,"Sant Andreu",58,"Baró de Viver","Home","Batxillerat elemental / graduat escolar / ESO / FPI",263
+2012,9,"Sant Andreu",59,"el Bon Pastor","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1436
+2012,9,"Sant Andreu",60,"Sant Andreu","Home","Batxillerat elemental / graduat escolar / ESO / FPI",5354
+2012,9,"Sant Andreu",61,"la Sagrera","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2935
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1310
+2012,9,"Sant Andreu",63,"Navas","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2121
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3502
+2012,10,"Sant Martí",65,"el Clot","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2717
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1202
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",483
+2012,10,"Sant Martí",68,"el Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2862
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",869
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2809
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2044
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2702
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3316
+2012,99,"No consta",99,"No consta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",18
+2012,1,"Ciutat Vella",1,"el Raval","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4013
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1908
+2012,1,"Ciutat Vella",3,"la Barceloneta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1430
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2347
+2012,2,"Eixample",5,"el Fort Pienc","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3981
+2012,2,"Eixample",6,"la Sagrada Família","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",6301
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4883
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4884
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",7204
+2012,2,"Eixample",10,"Sant Antoni","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4591
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4006
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",45
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2986
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1215
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1728
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2207
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2658
+2012,3,"Sants-Montjuïc",18,"Sants","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4758
+2012,4,"Les Corts",19,"les Corts","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5703
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2897
+2012,4,"Les Corts",21,"Pedralbes","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1275
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",479
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2510
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1650
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2696
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4922
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3347
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1892
+2012,6,"Gràcia",29,"el Coll","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",892
+2012,6,"Gràcia",30,"la Salut","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1648
+2012,6,"Gràcia",31,"la Vila de Gràcia","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5619
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4280
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3207
+2012,7,"Horta-Guinardó",34,"Can Baró","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1020
+2012,7,"Horta-Guinardó",35,"el Guinardó","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4511
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1192
+2012,7,"Horta-Guinardó",37,"el Carmel","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2792
+2012,7,"Horta-Guinardó",38,"la Teixonera","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1147
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",685
+2012,7,"Horta-Guinardó",40,"Montbau","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",546
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",667
+2012,7,"Horta-Guinardó",42,"la Clota","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",38
+2012,7,"Horta-Guinardó",43,"Horta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3069
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2973
+2012,8,"Nou Barris",45,"Porta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2602
+2012,8,"Nou Barris",46,"el Turó de la Peira","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1477
+2012,8,"Nou Barris",47,"Can Peguera","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",183
+2012,8,"Nou Barris",48,"la Guineueta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1688
+2012,8,"Nou Barris",49,"Canyelles","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",601
+2012,8,"Nou Barris",50,"les Roquetes","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1084
+2012,8,"Nou Barris",51,"Verdun","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",966
+2012,8,"Nou Barris",52,"la Prosperitat","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2313
+2012,8,"Nou Barris",53,"la Trinitat Nova","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",488
+2012,8,"Nou Barris",54,"Torre Baró","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",91
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",630
+2012,8,"Nou Barris",56,"Vallbona","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",78
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",803
+2012,9,"Sant Andreu",58,"Baró de Viver","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",142
+2012,9,"Sant Andreu",59,"el Bon Pastor","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1075
+2012,9,"Sant Andreu",60,"Sant Andreu","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",7135
+2012,9,"Sant Andreu",61,"la Sagrera","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3516
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1701
+2012,9,"Sant Andreu",63,"Navas","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2711
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4788
+2012,10,"Sant Martí",65,"el Clot","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3339
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1650
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",917
+2012,10,"Sant Martí",68,"el Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3637
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1298
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1729
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2251
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2880
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2887
+2012,99,"No consta",99,"No consta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",14
+2012,1,"Ciutat Vella",1,"el Raval","Home","Estudis universitaris / CFGS grau superior",4158
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Estudis universitaris / CFGS grau superior",2370
+2012,1,"Ciutat Vella",3,"la Barceloneta","Home","Estudis universitaris / CFGS grau superior",1395
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Estudis universitaris / CFGS grau superior",3156
+2012,2,"Eixample",5,"el Fort Pienc","Home","Estudis universitaris / CFGS grau superior",4207
+2012,2,"Eixample",6,"la Sagrada Família","Home","Estudis universitaris / CFGS grau superior",6370
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Home","Estudis universitaris / CFGS grau superior",7997
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Estudis universitaris / CFGS grau superior",7193
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Estudis universitaris / CFGS grau superior",8452
+2012,2,"Eixample",10,"Sant Antoni","Home","Estudis universitaris / CFGS grau superior",4683
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Estudis universitaris / CFGS grau superior",3252
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Estudis universitaris / CFGS grau superior",13
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Estudis universitaris / CFGS grau superior",1279
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Estudis universitaris / CFGS grau superior",978
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Estudis universitaris / CFGS grau superior",1502
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Home","Estudis universitaris / CFGS grau superior",1301
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Estudis universitaris / CFGS grau superior",1897
+2012,3,"Sants-Montjuïc",18,"Sants","Home","Estudis universitaris / CFGS grau superior",4167
+2012,4,"Les Corts",19,"les Corts","Home","Estudis universitaris / CFGS grau superior",7240
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Estudis universitaris / CFGS grau superior",3275
+2012,4,"Les Corts",21,"Pedralbes","Home","Estudis universitaris / CFGS grau superior",2402
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Estudis universitaris / CFGS grau superior",641
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Estudis universitaris / CFGS grau superior",4439
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Estudis universitaris / CFGS grau superior",3228
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Estudis universitaris / CFGS grau superior",4591
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Estudis universitaris / CFGS grau superior",9057
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Estudis universitaris / CFGS grau superior",5174
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Estudis universitaris / CFGS grau superior",2103
+2012,6,"Gràcia",29,"el Coll","Home","Estudis universitaris / CFGS grau superior",711
+2012,6,"Gràcia",30,"la Salut","Home","Estudis universitaris / CFGS grau superior",1812
+2012,6,"Gràcia",31,"la Vila de Gràcia","Home","Estudis universitaris / CFGS grau superior",7448
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Estudis universitaris / CFGS grau superior",4718
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Estudis universitaris / CFGS grau superior",2623
+2012,7,"Horta-Guinardó",34,"Can Baró","Home","Estudis universitaris / CFGS grau superior",710
+2012,7,"Horta-Guinardó",35,"el Guinardó","Home","Estudis universitaris / CFGS grau superior",3309
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Estudis universitaris / CFGS grau superior",962
+2012,7,"Horta-Guinardó",37,"el Carmel","Home","Estudis universitaris / CFGS grau superior",1121
+2012,7,"Horta-Guinardó",38,"la Teixonera","Home","Estudis universitaris / CFGS grau superior",513
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Estudis universitaris / CFGS grau superior",422
+2012,7,"Horta-Guinardó",40,"Montbau","Home","Estudis universitaris / CFGS grau superior",374
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Estudis universitaris / CFGS grau superior",535
+2012,7,"Horta-Guinardó",42,"la Clota","Home","Estudis universitaris / CFGS grau superior",21
+2012,7,"Horta-Guinardó",43,"Horta","Home","Estudis universitaris / CFGS grau superior",1795
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Estudis universitaris / CFGS grau superior",1653
+2012,8,"Nou Barris",45,"Porta","Home","Estudis universitaris / CFGS grau superior",1168
+2012,8,"Nou Barris",46,"el Turó de la Peira","Home","Estudis universitaris / CFGS grau superior",608
+2012,8,"Nou Barris",47,"Can Peguera","Home","Estudis universitaris / CFGS grau superior",44
+2012,8,"Nou Barris",48,"la Guineueta","Home","Estudis universitaris / CFGS grau superior",784
+2012,8,"Nou Barris",49,"Canyelles","Home","Estudis universitaris / CFGS grau superior",222
+2012,8,"Nou Barris",50,"les Roquetes","Home","Estudis universitaris / CFGS grau superior",347
+2012,8,"Nou Barris",51,"Verdun","Home","Estudis universitaris / CFGS grau superior",360
+2012,8,"Nou Barris",52,"la Prosperitat","Home","Estudis universitaris / CFGS grau superior",824
+2012,8,"Nou Barris",53,"la Trinitat Nova","Home","Estudis universitaris / CFGS grau superior",158
+2012,8,"Nou Barris",54,"Torre Baró","Home","Estudis universitaris / CFGS grau superior",37
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Home","Estudis universitaris / CFGS grau superior",166
+2012,8,"Nou Barris",56,"Vallbona","Home","Estudis universitaris / CFGS grau superior",36
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Home","Estudis universitaris / CFGS grau superior",268
+2012,9,"Sant Andreu",58,"Baró de Viver","Home","Estudis universitaris / CFGS grau superior",50
+2012,9,"Sant Andreu",59,"el Bon Pastor","Home","Estudis universitaris / CFGS grau superior",490
+2012,9,"Sant Andreu",60,"Sant Andreu","Home","Estudis universitaris / CFGS grau superior",4087
+2012,9,"Sant Andreu",61,"la Sagrera","Home","Estudis universitaris / CFGS grau superior",2037
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Estudis universitaris / CFGS grau superior",1059
+2012,9,"Sant Andreu",63,"Navas","Home","Estudis universitaris / CFGS grau superior",1807
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Estudis universitaris / CFGS grau superior",3712
+2012,10,"Sant Martí",65,"el Clot","Home","Estudis universitaris / CFGS grau superior",2247
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Estudis universitaris / CFGS grau superior",1641
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Estudis universitaris / CFGS grau superior",1886
+2012,10,"Sant Martí",68,"el Poblenou","Home","Estudis universitaris / CFGS grau superior",3357
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Estudis universitaris / CFGS grau superior",1865
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Estudis universitaris / CFGS grau superior",760
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Home","Estudis universitaris / CFGS grau superior",1459
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Estudis universitaris / CFGS grau superior",1511
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Home","Estudis universitaris / CFGS grau superior",1114
+2012,99,"No consta",99,"No consta","Home","Estudis universitaris / CFGS grau superior",4
+2012,1,"Ciutat Vella",1,"el Raval","Home","No consta",7
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Home","No consta",2
+2012,1,"Ciutat Vella",3,"la Barceloneta","Home","No consta",5
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","No consta",6
+2012,2,"Eixample",5,"el Fort Pienc","Home","No consta",9
+2012,2,"Eixample",6,"la Sagrada Família","Home","No consta",6
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Home","No consta",2
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","No consta",11
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","No consta",13
+2012,2,"Eixample",10,"Sant Antoni","Home","No consta",9
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Home","No consta",6
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","No consta",1
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Home","No consta",7
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","No consta",2
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Home","No consta",4
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Home","No consta",10
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Home","No consta",9
+2012,3,"Sants-Montjuïc",18,"Sants","Home","No consta",5
+2012,4,"Les Corts",19,"les Corts","Home","No consta",12
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","No consta",7
+2012,4,"Les Corts",21,"Pedralbes","Home","No consta",2
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","No consta",0
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","No consta",8
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","No consta",2
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","No consta",8
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","No consta",8
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","No consta",4
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Home","No consta",1
+2012,6,"Gràcia",29,"el Coll","Home","No consta",2
+2012,6,"Gràcia",30,"la Salut","Home","No consta",1
+2012,6,"Gràcia",31,"la Vila de Gràcia","Home","No consta",8
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","No consta",4
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","No consta",8
+2012,7,"Horta-Guinardó",34,"Can Baró","Home","No consta",1
+2012,7,"Horta-Guinardó",35,"el Guinardó","Home","No consta",4
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","No consta",5
+2012,7,"Horta-Guinardó",37,"el Carmel","Home","No consta",9
+2012,7,"Horta-Guinardó",38,"la Teixonera","Home","No consta",6
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","No consta",5
+2012,7,"Horta-Guinardó",40,"Montbau","Home","No consta",0
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","No consta",0
+2012,7,"Horta-Guinardó",42,"la Clota","Home","No consta",0
+2012,7,"Horta-Guinardó",43,"Horta","Home","No consta",9
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","No consta",6
+2012,8,"Nou Barris",45,"Porta","Home","No consta",4
+2012,8,"Nou Barris",46,"el Turó de la Peira","Home","No consta",2
+2012,8,"Nou Barris",47,"Can Peguera","Home","No consta",0
+2012,8,"Nou Barris",48,"la Guineueta","Home","No consta",1
+2012,8,"Nou Barris",49,"Canyelles","Home","No consta",1
+2012,8,"Nou Barris",50,"les Roquetes","Home","No consta",1
+2012,8,"Nou Barris",51,"Verdun","Home","No consta",2
+2012,8,"Nou Barris",52,"la Prosperitat","Home","No consta",7
+2012,8,"Nou Barris",53,"la Trinitat Nova","Home","No consta",1
+2012,8,"Nou Barris",54,"Torre Baró","Home","No consta",2
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Home","No consta",2
+2012,8,"Nou Barris",56,"Vallbona","Home","No consta",1
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Home","No consta",0
+2012,9,"Sant Andreu",58,"Baró de Viver","Home","No consta",0
+2012,9,"Sant Andreu",59,"el Bon Pastor","Home","No consta",1
+2012,9,"Sant Andreu",60,"Sant Andreu","Home","No consta",8
+2012,9,"Sant Andreu",61,"la Sagrera","Home","No consta",3
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Home","No consta",1
+2012,9,"Sant Andreu",63,"Navas","Home","No consta",6
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","No consta",8
+2012,10,"Sant Martí",65,"el Clot","Home","No consta",5
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","No consta",5
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","No consta",2
+2012,10,"Sant Martí",68,"el Poblenou","Home","No consta",6
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","No consta",3
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Home","No consta",7
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Home","No consta",1
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Home","No consta",13
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Home","No consta",7
+2012,99,"No consta",99,"No consta","Home","No consta",0
+2012,1,"Ciutat Vella",1,"el Raval","Dona","Sense estudis",2002
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Sense estudis",525
+2012,1,"Ciutat Vella",3,"la Barceloneta","Dona","Sense estudis",1055
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Sense estudis",942
+2012,2,"Eixample",5,"el Fort Pienc","Dona","Sense estudis",922
+2012,2,"Eixample",6,"la Sagrada Família","Dona","Sense estudis",1733
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Sense estudis",966
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Sense estudis",999
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Sense estudis",1612
+2012,2,"Eixample",10,"Sant Antoni","Dona","Sense estudis",1383
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Sense estudis",1946
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Sense estudis",113
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Sense estudis",1783
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Sense estudis",430
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Sense estudis",683
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Sense estudis",837
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Sense estudis",1198
+2012,3,"Sants-Montjuïc",18,"Sants","Dona","Sense estudis",1645
+2012,4,"Les Corts",19,"les Corts","Dona","Sense estudis",1295
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Sense estudis",834
+2012,4,"Les Corts",21,"Pedralbes","Dona","Sense estudis",202
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Sense estudis",122
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Sense estudis",513
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Sense estudis",241
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Sense estudis",427
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Sense estudis",751
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Sense estudis",516
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Sense estudis",468
+2012,6,"Gràcia",29,"el Coll","Dona","Sense estudis",304
+2012,6,"Gràcia",30,"la Salut","Dona","Sense estudis",407
+2012,6,"Gràcia",31,"la Vila de Gràcia","Dona","Sense estudis",1560
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Sense estudis",1004
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Sense estudis",1106
+2012,7,"Horta-Guinardó",34,"Can Baró","Dona","Sense estudis",514
+2012,7,"Horta-Guinardó",35,"el Guinardó","Dona","Sense estudis",1399
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Sense estudis",340
+2012,7,"Horta-Guinardó",37,"el Carmel","Dona","Sense estudis",2723
+2012,7,"Horta-Guinardó",38,"la Teixonera","Dona","Sense estudis",803
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Sense estudis",511
+2012,7,"Horta-Guinardó",40,"Montbau","Dona","Sense estudis",362
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Sense estudis",232
+2012,7,"Horta-Guinardó",42,"la Clota","Dona","Sense estudis",33
+2012,7,"Horta-Guinardó",43,"Horta","Dona","Sense estudis",1626
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Sense estudis",1383
+2012,8,"Nou Barris",45,"Porta","Dona","Sense estudis",1679
+2012,8,"Nou Barris",46,"el Turó de la Peira","Dona","Sense estudis",1122
+2012,8,"Nou Barris",47,"Can Peguera","Dona","Sense estudis",224
+2012,8,"Nou Barris",48,"la Guineueta","Dona","Sense estudis",1014
+2012,8,"Nou Barris",49,"Canyelles","Dona","Sense estudis",557
+2012,8,"Nou Barris",50,"les Roquetes","Dona","Sense estudis",1487
+2012,8,"Nou Barris",51,"Verdun","Dona","Sense estudis",1091
+2012,8,"Nou Barris",52,"la Prosperitat","Dona","Sense estudis",2395
+2012,8,"Nou Barris",53,"la Trinitat Nova","Dona","Sense estudis",751
+2012,8,"Nou Barris",54,"Torre Baró","Dona","Sense estudis",222
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Sense estudis",735
+2012,8,"Nou Barris",56,"Vallbona","Dona","Sense estudis",113
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Sense estudis",691
+2012,9,"Sant Andreu",58,"Baró de Viver","Dona","Sense estudis",224
+2012,9,"Sant Andreu",59,"el Bon Pastor","Dona","Sense estudis",771
+2012,9,"Sant Andreu",60,"Sant Andreu","Dona","Sense estudis",2396
+2012,9,"Sant Andreu",61,"la Sagrera","Dona","Sense estudis",1250
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Sense estudis",690
+2012,9,"Sant Andreu",63,"Navas","Dona","Sense estudis",887
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Sense estudis",1499
+2012,10,"Sant Martí",65,"el Clot","Dona","Sense estudis",1034
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Sense estudis",517
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Sense estudis",163
+2012,10,"Sant Martí",68,"el Poblenou","Dona","Sense estudis",1309
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Sense estudis",433
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Sense estudis",1872
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Sense estudis",1010
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Sense estudis",1595
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Sense estudis",2215
+2012,99,"No consta",99,"No consta","Dona","Sense estudis",7
+2012,1,"Ciutat Vella",1,"el Raval","Dona","Estudis primaris / certificat d'escolaritat / EGB",5918
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Estudis primaris / certificat d'escolaritat / EGB",1296
+2012,1,"Ciutat Vella",3,"la Barceloneta","Dona","Estudis primaris / certificat d'escolaritat / EGB",1862
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Estudis primaris / certificat d'escolaritat / EGB",2005
+2012,2,"Eixample",5,"el Fort Pienc","Dona","Estudis primaris / certificat d'escolaritat / EGB",2683
+2012,2,"Eixample",6,"la Sagrada Família","Dona","Estudis primaris / certificat d'escolaritat / EGB",4959
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Estudis primaris / certificat d'escolaritat / EGB",2610
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Estudis primaris / certificat d'escolaritat / EGB",2824
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Estudis primaris / certificat d'escolaritat / EGB",4721
+2012,2,"Eixample",10,"Sant Antoni","Dona","Estudis primaris / certificat d'escolaritat / EGB",3775
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Estudis primaris / certificat d'escolaritat / EGB",5157
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Estudis primaris / certificat d'escolaritat / EGB",185
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Estudis primaris / certificat d'escolaritat / EGB",4150
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Estudis primaris / certificat d'escolaritat / EGB",1139
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Estudis primaris / certificat d'escolaritat / EGB",1828
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Estudis primaris / certificat d'escolaritat / EGB",2235
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Estudis primaris / certificat d'escolaritat / EGB",3060
+2012,3,"Sants-Montjuïc",18,"Sants","Dona","Estudis primaris / certificat d'escolaritat / EGB",4383
+2012,4,"Les Corts",19,"les Corts","Dona","Estudis primaris / certificat d'escolaritat / EGB",3373
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Estudis primaris / certificat d'escolaritat / EGB",2014
+2012,4,"Les Corts",21,"Pedralbes","Dona","Estudis primaris / certificat d'escolaritat / EGB",535
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Estudis primaris / certificat d'escolaritat / EGB",242
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Estudis primaris / certificat d'escolaritat / EGB",1138
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Estudis primaris / certificat d'escolaritat / EGB",584
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Estudis primaris / certificat d'escolaritat / EGB",1057
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Estudis primaris / certificat d'escolaritat / EGB",2036
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Estudis primaris / certificat d'escolaritat / EGB",1422
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Estudis primaris / certificat d'escolaritat / EGB",1103
+2012,6,"Gràcia",29,"el Coll","Dona","Estudis primaris / certificat d'escolaritat / EGB",619
+2012,6,"Gràcia",30,"la Salut","Dona","Estudis primaris / certificat d'escolaritat / EGB",932
+2012,6,"Gràcia",31,"la Vila de Gràcia","Dona","Estudis primaris / certificat d'escolaritat / EGB",4097
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Estudis primaris / certificat d'escolaritat / EGB",2746
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Estudis primaris / certificat d'escolaritat / EGB",2509
+2012,7,"Horta-Guinardó",34,"Can Baró","Dona","Estudis primaris / certificat d'escolaritat / EGB",936
+2012,7,"Horta-Guinardó",35,"el Guinardó","Dona","Estudis primaris / certificat d'escolaritat / EGB",3518
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Estudis primaris / certificat d'escolaritat / EGB",828
+2012,7,"Horta-Guinardó",37,"el Carmel","Dona","Estudis primaris / certificat d'escolaritat / EGB",3939
+2012,7,"Horta-Guinardó",38,"la Teixonera","Dona","Estudis primaris / certificat d'escolaritat / EGB",1276
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Estudis primaris / certificat d'escolaritat / EGB",796
+2012,7,"Horta-Guinardó",40,"Montbau","Dona","Estudis primaris / certificat d'escolaritat / EGB",618
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Estudis primaris / certificat d'escolaritat / EGB",547
+2012,7,"Horta-Guinardó",42,"la Clota","Dona","Estudis primaris / certificat d'escolaritat / EGB",43
+2012,7,"Horta-Guinardó",43,"Horta","Dona","Estudis primaris / certificat d'escolaritat / EGB",2994
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Estudis primaris / certificat d'escolaritat / EGB",2978
+2012,8,"Nou Barris",45,"Porta","Dona","Estudis primaris / certificat d'escolaritat / EGB",3166
+2012,8,"Nou Barris",46,"el Turó de la Peira","Dona","Estudis primaris / certificat d'escolaritat / EGB",2246
+2012,8,"Nou Barris",47,"Can Peguera","Dona","Estudis primaris / certificat d'escolaritat / EGB",349
+2012,8,"Nou Barris",48,"la Guineueta","Dona","Estudis primaris / certificat d'escolaritat / EGB",1954
+2012,8,"Nou Barris",49,"Canyelles","Dona","Estudis primaris / certificat d'escolaritat / EGB",1067
+2012,8,"Nou Barris",50,"les Roquetes","Dona","Estudis primaris / certificat d'escolaritat / EGB",2131
+2012,8,"Nou Barris",51,"Verdun","Dona","Estudis primaris / certificat d'escolaritat / EGB",1734
+2012,8,"Nou Barris",52,"la Prosperitat","Dona","Estudis primaris / certificat d'escolaritat / EGB",3351
+2012,8,"Nou Barris",53,"la Trinitat Nova","Dona","Estudis primaris / certificat d'escolaritat / EGB",1123
+2012,8,"Nou Barris",54,"Torre Baró","Dona","Estudis primaris / certificat d'escolaritat / EGB",328
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Estudis primaris / certificat d'escolaritat / EGB",1699
+2012,8,"Nou Barris",56,"Vallbona","Dona","Estudis primaris / certificat d'escolaritat / EGB",210
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Estudis primaris / certificat d'escolaritat / EGB",1323
+2012,9,"Sant Andreu",58,"Baró de Viver","Dona","Estudis primaris / certificat d'escolaritat / EGB",371
+2012,9,"Sant Andreu",59,"el Bon Pastor","Dona","Estudis primaris / certificat d'escolaritat / EGB",1642
+2012,9,"Sant Andreu",60,"Sant Andreu","Dona","Estudis primaris / certificat d'escolaritat / EGB",5984
+2012,9,"Sant Andreu",61,"la Sagrera","Dona","Estudis primaris / certificat d'escolaritat / EGB",3289
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Estudis primaris / certificat d'escolaritat / EGB",1609
+2012,9,"Sant Andreu",63,"Navas","Dona","Estudis primaris / certificat d'escolaritat / EGB",2416
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Estudis primaris / certificat d'escolaritat / EGB",3923
+2012,10,"Sant Martí",65,"el Clot","Dona","Estudis primaris / certificat d'escolaritat / EGB",2716
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",1321
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",323
+2012,10,"Sant Martí",68,"el Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",2927
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",863
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Estudis primaris / certificat d'escolaritat / EGB",2911
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",2084
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Estudis primaris / certificat d'escolaritat / EGB",3379
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Estudis primaris / certificat d'escolaritat / EGB",3788
+2012,99,"No consta",99,"No consta","Dona","Estudis primaris / certificat d'escolaritat / EGB",12
+2012,1,"Ciutat Vella",1,"el Raval","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3685
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1051
+2012,1,"Ciutat Vella",3,"la Barceloneta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1348
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1534
+2012,2,"Eixample",5,"el Fort Pienc","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2779
+2012,2,"Eixample",6,"la Sagrada Família","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",4827
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2926
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3154
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",4895
+2012,2,"Eixample",10,"Sant Antoni","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3436
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3697
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",84
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2935
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",954
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1554
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1920
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2395
+2012,3,"Sants-Montjuïc",18,"Sants","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3748
+2012,4,"Les Corts",19,"les Corts","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3764
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2019
+2012,4,"Les Corts",21,"Pedralbes","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",781
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",280
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1536
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",919
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1602
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3012
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2012
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1283
+2012,6,"Gràcia",29,"el Coll","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",657
+2012,6,"Gràcia",30,"la Salut","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1136
+2012,6,"Gràcia",31,"la Vila de Gràcia","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3811
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2990
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2522
+2012,7,"Horta-Guinardó",34,"Can Baró","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",878
+2012,7,"Horta-Guinardó",35,"el Guinardó","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3514
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",884
+2012,7,"Horta-Guinardó",37,"el Carmel","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3558
+2012,7,"Horta-Guinardó",38,"la Teixonera","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1211
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",691
+2012,7,"Horta-Guinardó",40,"Montbau","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",475
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",494
+2012,7,"Horta-Guinardó",42,"la Clota","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",48
+2012,7,"Horta-Guinardó",43,"Horta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2501
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2740
+2012,8,"Nou Barris",45,"Porta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2498
+2012,8,"Nou Barris",46,"el Turó de la Peira","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1598
+2012,8,"Nou Barris",47,"Can Peguera","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",230
+2012,8,"Nou Barris",48,"la Guineueta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1598
+2012,8,"Nou Barris",49,"Canyelles","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",802
+2012,8,"Nou Barris",50,"les Roquetes","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1718
+2012,8,"Nou Barris",51,"Verdun","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1389
+2012,8,"Nou Barris",52,"la Prosperitat","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2795
+2012,8,"Nou Barris",53,"la Trinitat Nova","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",810
+2012,8,"Nou Barris",54,"Torre Baró","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",192
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1058
+2012,8,"Nou Barris",56,"Vallbona","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",105
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",987
+2012,9,"Sant Andreu",58,"Baró de Viver","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",236
+2012,9,"Sant Andreu",59,"el Bon Pastor","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1179
+2012,9,"Sant Andreu",60,"Sant Andreu","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",5559
+2012,9,"Sant Andreu",61,"la Sagrera","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3208
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1389
+2012,9,"Sant Andreu",63,"Navas","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2261
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3847
+2012,10,"Sant Martí",65,"el Clot","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2746
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1271
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",514
+2012,10,"Sant Martí",68,"el Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2746
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",823
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2366
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2006
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2718
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3233
+2012,99,"No consta",99,"No consta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",12
+2012,1,"Ciutat Vella",1,"el Raval","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3433
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1547
+2012,1,"Ciutat Vella",3,"la Barceloneta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1228
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2089
+2012,2,"Eixample",5,"el Fort Pienc","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3779
+2012,2,"Eixample",6,"la Sagrada Família","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5992
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5443
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5228
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",7123
+2012,2,"Eixample",10,"Sant Antoni","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4272
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3615
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",43
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2764
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1085
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1615
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1994
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2525
+2012,3,"Sants-Montjuïc",18,"Sants","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4420
+2012,4,"Les Corts",19,"les Corts","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5987
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2872
+2012,4,"Les Corts",21,"Pedralbes","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1649
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",479
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2862
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2284
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3452
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",6814
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3900
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1857
+2012,6,"Gràcia",29,"el Coll","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",842
+2012,6,"Gràcia",30,"la Salut","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1603
+2012,6,"Gràcia",31,"la Vila de Gràcia","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5517
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4121
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3074
+2012,7,"Horta-Guinardó",34,"Can Baró","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",962
+2012,7,"Horta-Guinardó",35,"el Guinardó","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4305
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1040
+2012,7,"Horta-Guinardó",37,"el Carmel","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2792
+2012,7,"Horta-Guinardó",38,"la Teixonera","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1090
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",690
+2012,7,"Horta-Guinardó",40,"Montbau","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",510
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",585
+2012,7,"Horta-Guinardó",42,"la Clota","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",35
+2012,7,"Horta-Guinardó",43,"Horta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2861
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2812
+2012,8,"Nou Barris",45,"Porta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2406
+2012,8,"Nou Barris",46,"el Turó de la Peira","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1423
+2012,8,"Nou Barris",47,"Can Peguera","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",172
+2012,8,"Nou Barris",48,"la Guineueta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1499
+2012,8,"Nou Barris",49,"Canyelles","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",540
+2012,8,"Nou Barris",50,"les Roquetes","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1127
+2012,8,"Nou Barris",51,"Verdun","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1049
+2012,8,"Nou Barris",52,"la Prosperitat","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2367
+2012,8,"Nou Barris",53,"la Trinitat Nova","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",514
+2012,8,"Nou Barris",54,"Torre Baró","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",78
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",662
+2012,8,"Nou Barris",56,"Vallbona","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",80
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",689
+2012,9,"Sant Andreu",58,"Baró de Viver","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",130
+2012,9,"Sant Andreu",59,"el Bon Pastor","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",973
+2012,9,"Sant Andreu",60,"Sant Andreu","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",6241
+2012,9,"Sant Andreu",61,"la Sagrera","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3280
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1622
+2012,9,"Sant Andreu",63,"Navas","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2526
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4345
+2012,10,"Sant Martí",65,"el Clot","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2958
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1572
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",888
+2012,10,"Sant Martí",68,"el Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3223
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1144
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1681
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2022
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2634
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2682
+2012,99,"No consta",99,"No consta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",15
+2012,1,"Ciutat Vella",1,"el Raval","Dona","Estudis universitaris / CFGS grau superior",4407
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Estudis universitaris / CFGS grau superior",2542
+2012,1,"Ciutat Vella",3,"la Barceloneta","Dona","Estudis universitaris / CFGS grau superior",1592
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Estudis universitaris / CFGS grau superior",3743
+2012,2,"Eixample",5,"el Fort Pienc","Dona","Estudis universitaris / CFGS grau superior",4991
+2012,2,"Eixample",6,"la Sagrada Família","Dona","Estudis universitaris / CFGS grau superior",7813
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Estudis universitaris / CFGS grau superior",9076
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Estudis universitaris / CFGS grau superior",8129
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Estudis universitaris / CFGS grau superior",9573
+2012,2,"Eixample",10,"Sant Antoni","Dona","Estudis universitaris / CFGS grau superior",5423
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Estudis universitaris / CFGS grau superior",4081
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Estudis universitaris / CFGS grau superior",13
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Estudis universitaris / CFGS grau superior",1703
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Estudis universitaris / CFGS grau superior",1199
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Estudis universitaris / CFGS grau superior",1795
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Estudis universitaris / CFGS grau superior",1681
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Estudis universitaris / CFGS grau superior",2461
+2012,3,"Sants-Montjuïc",18,"Sants","Dona","Estudis universitaris / CFGS grau superior",5236
+2012,4,"Les Corts",19,"les Corts","Dona","Estudis universitaris / CFGS grau superior",7626
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Estudis universitaris / CFGS grau superior",3536
+2012,4,"Les Corts",21,"Pedralbes","Dona","Estudis universitaris / CFGS grau superior",2215
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Estudis universitaris / CFGS grau superior",706
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Estudis universitaris / CFGS grau superior",4829
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Estudis universitaris / CFGS grau superior",3139
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Estudis universitaris / CFGS grau superior",4840
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Estudis universitaris / CFGS grau superior",9345
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Estudis universitaris / CFGS grau superior",5965
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Estudis universitaris / CFGS grau superior",2601
+2012,6,"Gràcia",29,"el Coll","Dona","Estudis universitaris / CFGS grau superior",914
+2012,6,"Gràcia",30,"la Salut","Dona","Estudis universitaris / CFGS grau superior",2233
+2012,6,"Gràcia",31,"la Vila de Gràcia","Dona","Estudis universitaris / CFGS grau superior",9921
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Estudis universitaris / CFGS grau superior",5796
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Estudis universitaris / CFGS grau superior",3315
+2012,7,"Horta-Guinardó",34,"Can Baró","Dona","Estudis universitaris / CFGS grau superior",911
+2012,7,"Horta-Guinardó",35,"el Guinardó","Dona","Estudis universitaris / CFGS grau superior",4192
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Estudis universitaris / CFGS grau superior",1133
+2012,7,"Horta-Guinardó",37,"el Carmel","Dona","Estudis universitaris / CFGS grau superior",1528
+2012,7,"Horta-Guinardó",38,"la Teixonera","Dona","Estudis universitaris / CFGS grau superior",730
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Estudis universitaris / CFGS grau superior",525
+2012,7,"Horta-Guinardó",40,"Montbau","Dona","Estudis universitaris / CFGS grau superior",536
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Estudis universitaris / CFGS grau superior",700
+2012,7,"Horta-Guinardó",42,"la Clota","Dona","Estudis universitaris / CFGS grau superior",41
+2012,7,"Horta-Guinardó",43,"Horta","Dona","Estudis universitaris / CFGS grau superior",2475
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Estudis universitaris / CFGS grau superior",2279
+2012,8,"Nou Barris",45,"Porta","Dona","Estudis universitaris / CFGS grau superior",1699
+2012,8,"Nou Barris",46,"el Turó de la Peira","Dona","Estudis universitaris / CFGS grau superior",854
+2012,8,"Nou Barris",47,"Can Peguera","Dona","Estudis universitaris / CFGS grau superior",72
+2012,8,"Nou Barris",48,"la Guineueta","Dona","Estudis universitaris / CFGS grau superior",1052
+2012,8,"Nou Barris",49,"Canyelles","Dona","Estudis universitaris / CFGS grau superior",347
+2012,8,"Nou Barris",50,"les Roquetes","Dona","Estudis universitaris / CFGS grau superior",507
+2012,8,"Nou Barris",51,"Verdun","Dona","Estudis universitaris / CFGS grau superior",523
+2012,8,"Nou Barris",52,"la Prosperitat","Dona","Estudis universitaris / CFGS grau superior",1182
+2012,8,"Nou Barris",53,"la Trinitat Nova","Dona","Estudis universitaris / CFGS grau superior",194
+2012,8,"Nou Barris",54,"Torre Baró","Dona","Estudis universitaris / CFGS grau superior",52
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Estudis universitaris / CFGS grau superior",239
+2012,8,"Nou Barris",56,"Vallbona","Dona","Estudis universitaris / CFGS grau superior",47
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Estudis universitaris / CFGS grau superior",414
+2012,9,"Sant Andreu",58,"Baró de Viver","Dona","Estudis universitaris / CFGS grau superior",53
+2012,9,"Sant Andreu",59,"el Bon Pastor","Dona","Estudis universitaris / CFGS grau superior",642
+2012,9,"Sant Andreu",60,"Sant Andreu","Dona","Estudis universitaris / CFGS grau superior",5600
+2012,9,"Sant Andreu",61,"la Sagrera","Dona","Estudis universitaris / CFGS grau superior",2701
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Estudis universitaris / CFGS grau superior",1454
+2012,9,"Sant Andreu",63,"Navas","Dona","Estudis universitaris / CFGS grau superior",2225
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Estudis universitaris / CFGS grau superior",4509
+2012,10,"Sant Martí",65,"el Clot","Dona","Estudis universitaris / CFGS grau superior",2806
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Estudis universitaris / CFGS grau superior",1931
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Estudis universitaris / CFGS grau superior",1965
+2012,10,"Sant Martí",68,"el Poblenou","Dona","Estudis universitaris / CFGS grau superior",3968
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Estudis universitaris / CFGS grau superior",2027
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Estudis universitaris / CFGS grau superior",924
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Estudis universitaris / CFGS grau superior",1773
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Estudis universitaris / CFGS grau superior",1930
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Estudis universitaris / CFGS grau superior",1514
+2012,99,"No consta",99,"No consta","Dona","Estudis universitaris / CFGS grau superior",10
+2012,1,"Ciutat Vella",1,"el Raval","Dona","No consta",9
+2012,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","No consta",3
+2012,1,"Ciutat Vella",3,"la Barceloneta","Dona","No consta",1
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","No consta",5
+2012,2,"Eixample",5,"el Fort Pienc","Dona","No consta",5
+2012,2,"Eixample",6,"la Sagrada Família","Dona","No consta",10
+2012,2,"Eixample",7,"la Dreta de l'Eixample","Dona","No consta",4
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","No consta",7
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","No consta",15
+2012,2,"Eixample",10,"Sant Antoni","Dona","No consta",13
+2012,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","No consta",4
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","No consta",1
+2012,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","No consta",8
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","No consta",5
+2012,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","No consta",5
+2012,3,"Sants-Montjuïc",16,"la Bordeta","Dona","No consta",9
+2012,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","No consta",7
+2012,3,"Sants-Montjuïc",18,"Sants","Dona","No consta",7
+2012,4,"Les Corts",19,"les Corts","Dona","No consta",11
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","No consta",9
+2012,4,"Les Corts",21,"Pedralbes","Dona","No consta",2
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","No consta",3
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","No consta",9
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","No consta",4
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","No consta",13
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","No consta",6
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","No consta",6
+2012,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","No consta",4
+2012,6,"Gràcia",29,"el Coll","Dona","No consta",1
+2012,6,"Gràcia",30,"la Salut","Dona","No consta",6
+2012,6,"Gràcia",31,"la Vila de Gràcia","Dona","No consta",4
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","No consta",7
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","No consta",9
+2012,7,"Horta-Guinardó",34,"Can Baró","Dona","No consta",1
+2012,7,"Horta-Guinardó",35,"el Guinardó","Dona","No consta",6
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","No consta",10
+2012,7,"Horta-Guinardó",37,"el Carmel","Dona","No consta",13
+2012,7,"Horta-Guinardó",38,"la Teixonera","Dona","No consta",4
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","No consta",1
+2012,7,"Horta-Guinardó",40,"Montbau","Dona","No consta",0
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","No consta",2
+2012,7,"Horta-Guinardó",42,"la Clota","Dona","No consta",0
+2012,7,"Horta-Guinardó",43,"Horta","Dona","No consta",5
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","No consta",8
+2012,8,"Nou Barris",45,"Porta","Dona","No consta",4
+2012,8,"Nou Barris",46,"el Turó de la Peira","Dona","No consta",1
+2012,8,"Nou Barris",47,"Can Peguera","Dona","No consta",0
+2012,8,"Nou Barris",48,"la Guineueta","Dona","No consta",0
+2012,8,"Nou Barris",49,"Canyelles","Dona","No consta",2
+2012,8,"Nou Barris",50,"les Roquetes","Dona","No consta",2
+2012,8,"Nou Barris",51,"Verdun","Dona","No consta",6
+2012,8,"Nou Barris",52,"la Prosperitat","Dona","No consta",9
+2012,8,"Nou Barris",53,"la Trinitat Nova","Dona","No consta",0
+2012,8,"Nou Barris",54,"Torre Baró","Dona","No consta",0
+2012,8,"Nou Barris",55,"Ciutat Meridiana","Dona","No consta",4
+2012,8,"Nou Barris",56,"Vallbona","Dona","No consta",2
+2012,9,"Sant Andreu",57,"la Trinitat Vella","Dona","No consta",0
+2012,9,"Sant Andreu",58,"Baró de Viver","Dona","No consta",2
+2012,9,"Sant Andreu",59,"el Bon Pastor","Dona","No consta",2
+2012,9,"Sant Andreu",60,"Sant Andreu","Dona","No consta",13
+2012,9,"Sant Andreu",61,"la Sagrera","Dona","No consta",5
+2012,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","No consta",2
+2012,9,"Sant Andreu",63,"Navas","Dona","No consta",3
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","No consta",5
+2012,10,"Sant Martí",65,"el Clot","Dona","No consta",3
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","No consta",5
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","No consta",0
+2012,10,"Sant Martí",68,"el Poblenou","Dona","No consta",8
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","No consta",0
+2012,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","No consta",5
+2012,10,"Sant Martí",71,"Provençals del Poblenou","Dona","No consta",2
+2012,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","No consta",6
+2012,10,"Sant Martí",73,"la Verneda i la Pau","Dona","No consta",5
+2012,99,"No consta",99,"No consta","Dona","No consta",0
